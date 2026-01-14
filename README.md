@@ -80,9 +80,7 @@ If you need AI features that are **robust enough for production** and aligned wi
 
 ## 📬 Let’s Connect
 
-- 🌐 Portfolio:
 - 💼 LinkedIn: linkedin.com/in/mikus-grosbergs-990836281
 - 🐙 GitHub: https://github.com/senior-ai-engineer
-- ✉️ Email: 
 
 Open to collaborating on ambitious AI products, dev tools, and systems that make intelligent software feel dependable.
