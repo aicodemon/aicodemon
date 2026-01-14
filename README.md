@@ -1,4 +1,4 @@
-# Hi, I'm Walter Joy 👋  
+# Hi, I'm Mikus Grosbergs 👋  
 
 Senior Applied AI & Full‑Stack Engineer • Building reliable, production‑grade AI systems
 
