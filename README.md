@@ -16,8 +16,6 @@ I build production-grade AI products and scalable web platforms for startups —
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/nftknight/nftknight/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-<hr/>
-
 ## What I do (startup-ready)
 - Build **LLM agents** with tool-calling, retries/fallbacks, guardrails, and human-in-the-loop escalation.
 - Ship **RAG systems** that stay grounded: chunking strategy, hybrid retrieval, reranking, citations, eval harness, and monitoring.
