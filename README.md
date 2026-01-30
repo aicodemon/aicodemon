@@ -37,67 +37,46 @@ I build production-grade AI products and scalable web platforms for startups —
 
 <table>
   <tr>
-    <td><b>AI / ML</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="34" alt="scikit-learn" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/Machine%20Learning-222?style=for-the-badge" alt="Machine Learning" />
-      <img src="https://img.shields.io/badge/Deep%20Learning-222?style=for-the-badge" alt="Deep Learning" />
-      <img src="https://img.shields.io/badge/Generative%20AI-222?style=for-the-badge" alt="Generative AI" />
-    </td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/openai.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/claude.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/anthrophic.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/huggingface.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/langchain.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/deepseek.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/retellai.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/runpod.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/botpress.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/voiceflow.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/pinecone.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/AI/faiss.png?raw=true" width="200"></td>
   </tr>
-
   <tr>
-    <td><b>Data</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/SQL-222?style=for-the-badge" alt="SQL" />
-      <img src="https://img.shields.io/badge/ETL-222?style=for-the-badge" alt="ETL" />
-      <img src="https://img.shields.io/badge/Databases-222?style=for-the-badge" alt="Databases" />
-      <img src="https://img.shields.io/badge/Statistical%20Analysis-222?style=for-the-badge" alt="Statistical Analysis" />
-      <img src="https://img.shields.io/badge/Data%20Science-222?style=for-the-badge" alt="Data Science" />
-      <img src="https://img.shields.io/badge/Data%20Analytics-222?style=for-the-badge" alt="Data Analytics" />
-    </td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/javascript.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/typescript.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/python.png?raw=true" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg?raw=true" width="200"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/react.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/next.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/laravel.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/node.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/fastapi.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/django.png?raw=true" width="200"></td>
   </tr>
-
   <tr>
-    <td><b>Visualization / BI</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Data%20Visualization-222?style=for-the-badge" alt="Data Visualization" />
-      <img src="https://img.shields.io/badge/Looker%20Studio%20(Google%20Data%20Studio)-222?style=for-the-badge&logo=google" alt="Looker Studio / Google Data Studio" />
-      <img src="https://img.shields.io/badge/Power%20BI-222?style=for-the-badge&logo=powerbi" alt="Power BI" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Programming</b></td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="34" alt="C" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="34" alt="C++" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="34" alt="MATLAB" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Automation / PM</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Excel%20(VBA)-222?style=for-the-badge&logo=microsoft-excel" alt="Excel VBA" />
-      <img src="https://img.shields.io/badge/Google%20Apps%20Script-222?style=for-the-badge&logo=google" alt="Google Apps Script" />
-      <img src="https://img.shields.io/badge/Google%20Sheets%20/%20Workspace-222?style=for-the-badge&logo=googlesheets" alt="Google Sheets/Workspace" />
-      <img src="https://img.shields.io/badge/Power%20Apps-222?style=for-the-badge&logo=microsoft" alt="Power Apps" />
-      <img src="https://img.shields.io/badge/Power%20Automate-222?style=for-the-badge&logo=microsoft" alt="Power Automate" />
-      <img src="https://img.shields.io/badge/MS%20Project-222?style=for-the-badge&logo=microsoft" alt="MS Project" />
-      <img src="https://img.shields.io/badge/Project%20Management-222?style=for-the-badge" alt="Project Management" />
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Industrial</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/WinCC%20(SCADA)-222?style=for-the-badge&logo=siemens" alt="WinCC (SCADA)" />
-      <img src="https://img.shields.io/badge/Electronics%20(Analog%20/%20Digital)-222?style=for-the-badge" alt="Electronics (Analog/Digital)" />
-    </td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mongodb.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/mysql.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/postgresql.png?raw=true" width="200"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/docker.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/kubernetes.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/aws.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/azure.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/google_cloud.png?raw=true" width="200"></td>
+    <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/CRM.png?raw=true" width="200"></td>
+    <td><img src="https://github.com/lucyhunter9411/profile_icon/blob/main/ghl.png?raw=true" width="200"></td>
   </tr>
 </table>
 
