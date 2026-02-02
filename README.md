@@ -25,14 +25,6 @@ I build production-grade AI products and scalable web platforms for startups —
 
 <hr/>
 
-## Highlights (selected impact)
-- Built AI-assisted product experiences with **sub-200ms** critical-path responses via caching, streaming, and careful query design.
-- Implemented **event-driven** workflows (webhooks + queues) with idempotency keys and replay safety for fintech-style reliability.
-- Designed secure data access patterns (RBAC / Postgres RLS) aligned with **SOC2/GDPR** expectations.
-- Created evaluation harnesses to reduce hallucinations and regression-risk across prompts, tools, and retrieval changes.
-
-<hr/>
-
 ## Core skills
 
 <table>
