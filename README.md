@@ -6,10 +6,6 @@
 <h1 align="center">Senior AI / Full-Stack Engineer</h1>
 
 <p align="center">
-I build production-grade AI products and scalable web platforms for startups — from 0→1 prototypes to reliable, monitored systems.
-</p>
-
-<p align="center">
 <b>Focus:</b> LLM Agents • RAG • React/TypeScript • Python/Node • Postgres • Cloud/Observability
 </p>
 
