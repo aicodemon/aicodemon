@@ -69,20 +69,19 @@
 </table>
 
 <hr/>
-## Contact
-
 <p align="center">
-  <a href="mailto:ajay.jagu@usa.com">
-    <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="18" height="18" />
+  <a href="mailto:YOUR_EMAIL@example.com" title="Email">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="44" height="44" />
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://t.me/@aicodecraft1004">
-    <img alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" width="18" height="18" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/YOUR_TELEGRAM_ID" title="Telegram">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="44" height="44" />
   </a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ajay-jagu-4877942bb">
-    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="18" height="18" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/" title="LinkedIn">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="44" height="44" />
   </a>
 </p>
+
 
 
