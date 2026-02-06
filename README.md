@@ -71,20 +71,17 @@
 <hr/>
 ## Contact
 
-<p align="left">
-  <a href="mailto:your.email@example.com">
+<p align="center">
+  <a href="mailto:ajay.jagu@usa.com">
     <img alt="Email" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg" width="18" height="18" />
-    Email
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://t.me/yourTelegramID">
+  <a href="https://t.me/@aicodecraft1004">
     <img alt="Telegram" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/telegram.svg" width="18" height="18" />
-    Telegram
   </a>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yourLinkedInHandle/">
+  <a href="https://www.linkedin.com/in/ajay-jagu-4877942bb">
     <img alt="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="18" height="18" />
-    LinkedIn
   </a>
 </p>
 
