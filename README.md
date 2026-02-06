@@ -71,15 +71,15 @@
 <hr/>
 <p align="center">
   <a href="mailto:YOUR_EMAIL@example.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="44" height="44" />
+    Email
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://t.me/YOUR_TELEGRAM_ID" title="Telegram">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="44" height="44" />
+    Telegram
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="44" height="44" />
+    Linkedin
   </a>
 </p>
 
